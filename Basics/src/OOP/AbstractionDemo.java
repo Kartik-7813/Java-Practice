@@ -37,12 +37,12 @@ class AlooJeera implements AlooDish {
 
 public class AbstractionDemo {
     static void main(String[] args) {
-        /*
+        
         ShahiPaneer shahiPaneer = new ShahiPaneer();
         shahiPaneer.paneerPieces = 5;
         System.out.println(shahiPaneer.paneerPieces);
         shahiPaneer.gravy();
-         */
+         
 
         AlooJeera a = new AlooJeera();
         a.show();
